@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>iFeng News</title>
+    <link>https://www.ifeng.com/</link>
+    <description>iFeng News - Aktuelle Nachrichten und Informationen</description>
+    <language>zh-cn</language>
+    <pubDate>Thu, 15 May 2023 12:00:00 GMT</pubDate>
+
+    <!-- Einzelne Feed-Einträge -->
+    <item>
+      <title>Artikel 1</title>
+      <link>https://www.ifeng.com/article1</link>
+      <description>Dies ist der erste Artikel auf iFeng News.</description>
+      <pubDate>Thu, 14 May 2023 09:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Artikel 2</title>
+      <link>https://www.ifeng.com/article2</link>
+      <description>Dies ist der zweite Artikel auf iFeng News.</description>
+      <pubDate>Wed, 13 May 2023 15:30:00 GMT</pubDate>
+    </item>
+
+    <!-- Weitere Feed-Einträge... -->
+
+  </channel>
+</rss>
